@@ -3,7 +3,7 @@ import telebot
 import process
 import os
 
-token = '963784896:AAEqcmeybGi9gPzMirnPJ7ObAYDitmQlcm4'
+token = ''
 bot = telebot.TeleBot(token)
 
 
