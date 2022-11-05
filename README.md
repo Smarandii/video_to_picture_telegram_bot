@@ -21,6 +21,7 @@
 4. run `python bot.py`
 5. go to your bot (BotFather gave you link to your bot at step 2) and send any title text
 6. then forward news post from [@economika](https://t.me/economika)
+
 ![image](https://user-images.githubusercontent.com/48328325/200105688-51326a7b-5bc3-4ed3-8584-8252cc4e4009.png)
 8. get results
 ![image](https://user-images.githubusercontent.com/48328325/200105706-b665685d-57d8-4561-8277-4d3cc3cfb36d.png)
