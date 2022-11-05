@@ -1,5 +1,5 @@
 opencv-python
 opencv-python-headless
 Pillow
-pyTelegramBotAP==3.6.6
+pyTelegramBotAPI==3.6.6
 requests
