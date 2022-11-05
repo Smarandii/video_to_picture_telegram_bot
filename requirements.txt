@@ -1,10 +1,5 @@
-opencv-python==4.2.0.32
-opencv-python-headless==4.2.0.32
-Pillow==9.0.1
-pip==21.1
+opencv-python
+opencv-python-headless
+Pillow
 pyTelegramBotAP==3.6.6
-request==2018.11.20
-requests==2.22.0
-TelegramBotAPI==0.3.2
-virtualenv==16.7.7
-wheel==0.33.4
+requests
