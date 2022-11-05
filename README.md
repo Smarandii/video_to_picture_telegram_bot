@@ -1,4 +1,4 @@
-# multitool
+# video_and_caption_post_message_to_picture_bot
 
 ## Telegram bot for content making automation:
 - converts text from [@economika](https://t.me/economika) to picture with signature and post with hashtags
